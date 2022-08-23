@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="16px" viewBox="0 0 28 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new">
+            <path d="M3.39542404,8.21017208e-07 C1.52367447,-0.00128824298 0.00527166109,1.51553904 0.00401124296,3.38746049 L8.21621803e-07,10.1664189 C-0.00128824238,12.0384263 1.51442185,13.5571728 3.3863433,13.5586051 L5.21280376,13.5644775 L5.89703893,15.9053891 L9.96967909,13.6018604 L24.3971698,13.5723552 C26.2689194,13.5736442 27.7873222,12.0570175 27.7885826,10.1848955 L27.7925931,3.40593708 C27.7938821,1.53384375 26.2774845,0.0151258386 24.4062506,0.0138654205 L3.39542404,8.21017208e-07 Z" id="Shape" fill="#FF5A00" fill-rule="nonzero"></path>
+            <text id="NEW" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="7.74782609" font-weight="400" line-spacing="9" letter-spacing="0.8608696" fill="#FFFFFF">
+                <tspan x="4" y="10">NEW</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
